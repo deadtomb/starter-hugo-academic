@@ -9,14 +9,14 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: google
+    icon_pack: fab
     link: https://scholar.google.com/citations?user=8ts9vjAAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/deadtomb
-  - icon: oricd
-    icon_pack: ai
+  - icon: graduation-cap
+    icon_pack: fas
     link: https://orcid.org/0009-0002-7591-8492?lang=en
   - icon: cv
     icon_pack: ai
@@ -29,7 +29,7 @@ education:
       year: 2013
     - course: BSc in Electronics & Information Engineering
       institution: Hangzhou Dianzi University
-      year: 1993
+      year: 2010
 superuser: true
 status:
   icon: ☕️
