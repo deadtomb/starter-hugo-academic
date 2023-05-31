@@ -1,5 +1,5 @@
 ---
-avatar_filename: img_0354.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Finance
@@ -27,9 +27,7 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+organizations: []
 education:
   courses:
     - course: MEng in Artificial Intelligence
