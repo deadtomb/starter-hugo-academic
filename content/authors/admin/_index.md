@@ -1,11 +1,10 @@
 ---
 avatar_filename: img_0354.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Finance
+  - Quant Marketing
+  - Information System
 social:
   - icon: envelope
     icon_pack: fas
@@ -33,9 +32,6 @@ organizations:
     url: https://www.stanford.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
@@ -52,6 +48,5 @@ title: Ang Zhang
 first_name: Alice
 email: ""
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I graduated with Msc and Bsc both in the Engineering field, and took on a profession in the banking & finance industry. I am now actively seeking to pursue a PhD degree in Business, with interest in Finance / Quant Marketing / IS.
 {style="text-align: justify;"}
