@@ -24,12 +24,12 @@ social:
 organizations: []
 education:
   courses:
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Msc in Electronics Science & Technology
+      institution: Shanghai Jiao Tong University
+      year: 2013
+    - course: BSc in Electronics & Information Engineering
+      institution: Hangzhou Dianzi University
+      year: 1993
 superuser: true
 status:
   icon: ☕️
