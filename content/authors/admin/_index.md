@@ -9,18 +9,23 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
+    label: Contact me
   - icon: google
     icon_pack: fab
     link: https://scholar.google.com/citations?user=8ts9vjAAAAAJ&hl=en
+    label: Google Scholar
   - icon: github
     icon_pack: fab
     link: https://github.com/deadtomb
+    label: GitHub
   - icon: graduation-cap
     icon_pack: fas
     link: https://orcid.org/0009-0002-7591-8492?lang=en
+    label: ORCID
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
+    label: CV
 organizations: []
 education:
   courses:
