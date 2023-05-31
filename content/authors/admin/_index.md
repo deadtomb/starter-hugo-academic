@@ -15,7 +15,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/deadtomb
-  - icon: ORCID
+  - icon: oricd
     icon_pack: ai
     link: https://orcid.org/0009-0002-7591-8492?lang=en
   - icon: cv
