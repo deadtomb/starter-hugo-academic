@@ -9,21 +9,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=8ts9vjAAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
+    link: https://github.com/deadtomb
+  - icon: ORCID
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://orcid.org/0009-0002-7591-8492?lang=en
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
@@ -46,5 +40,5 @@ title: Ang Zhang
 first_name: Alice
 email: ""
 ---
-I graduated with Msc and Bsc both in the Engineering field, and took on a profession in the banking & finance industry. I am now actively seeking to pursue a PhD degree in Business, with interest in Finance / Quant Marketing / IS.
+I graduated with Msc and Bsc both in the Engineering field, and took on a profession in the banking & finance industry. I am now actively seeking to pursue a PhD degree in Business, with interest in Finance / Quant Marketing / IS. 
 {style="text-align: justify;"}
