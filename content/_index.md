@@ -12,6 +12,7 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+ <!--
   - block: features
     content:
       title: Skills
@@ -28,9 +29,10 @@ sections:
           description: 10%
           icon: camera-retro
           icon_pack: fas
+-->
   - block: experience
     content:
-      title: Experience
+      title: Work Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -66,7 +68,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Certificates'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -78,27 +80,27 @@ sections:
       items:
         - certificate_url: https://www.coursera.org
           date_end: ''
-          date_start: '2021-01-25'
+          <!-- date_start: '2021-01-25' -->
           description: ''
-          organization: Coursera
+          organization: CFA Institute
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          title: CFA
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
+          description: 
+          organization: GARP
           organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
+          title: FRM
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
           date_start: '2020-07-01'
           description: ''
-          organization: DataCamp
+          organization: Chinese Institute of CPA
           organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          title: CPA
           url: ''
     design:
       columns: '2'
