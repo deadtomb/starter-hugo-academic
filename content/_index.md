@@ -71,7 +71,7 @@ sections:
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
-          description: 
+          description: ''
           organization: GARP
           organization_url: https://www.edx.org
           title: FRM
