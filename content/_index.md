@@ -18,7 +18,7 @@ sections:
       title: Work Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
-      # date_format: Jan 2006
+      date_format: Jan 2006
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
@@ -54,7 +54,7 @@ sections:
       title: 'Certificates'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
-      # date_format: Jan 2006
+      date_format: Jan 2006
       # Accomplishments.
       #   Add/remove as many `item` blocks below as you like.
       #   `title`, `organization`, and `date_start` are the required parameters.
