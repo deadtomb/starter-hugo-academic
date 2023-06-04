@@ -62,8 +62,6 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: ''
           description: ''
           organization: CFA Institute
           organization_url: https://www.coursera.org
